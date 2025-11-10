@@ -596,30 +596,6 @@ The overall intellectual dilemma of the book is that reason is perpetually stuck
 
 
 
----
-
-```
-```
-
-
-
-
----
-
-```
-```
-
-
-
-
-
----
-
-```
-```
-
-
-
 
 
 
