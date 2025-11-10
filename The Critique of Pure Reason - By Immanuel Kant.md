@@ -1,7 +1,7 @@
 
 # The Critique of Pure Reason - Immanuel Kant
 
-Objective : Analyze the Book "The Critique of Pure Reason - Immanuel Kant" using the Questions from the Book "How to Read a Book: The Classic Guide to Intelligent Reading by Mortimer J. Adler and Charles Van Doren" and the Tool : Google-NotebookLM
+Objective : Analyze the Book "The Critique of Pure Reason - Immanuel Kant" using the 9 Questions from the Book "How to Read a Book: The Classic Guide to Intelligent Reading by Mortimer J. Adler and Charles Van Doren" and the Tool : Google-NotebookLM
 
 We use the pdf Book from https://ia600809.us.archive.org/32/items/immanuelkantscri032379mbp/immanuelkantscri032379mbp.pdf. 
 
