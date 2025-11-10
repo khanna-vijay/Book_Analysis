@@ -16,7 +16,7 @@ Why did we take this book for Analysis : Immanuel Kant's challenging expository 
 ## Mind Map from NotebookLM
 <img width="8304" height="10838" alt="image" src="https://github.com/user-attachments/assets/799d0497-3b40-4e30-bc17-6094a9b41379" />
 
-The next section is a series of Questions asked to the NotebookLM hostinf the above PDF, and the grounded responses from NotebookLM. The Questions appear as code-blocks, and can be used for your book hosted in NotebookLM.
+The next section is a series of Questions asked to the NotebookLM hosting the above PDF, and the grounded responses from NotebookLM. The 9-Questions appear as code-blocks, and can be used for your book hosted in NotebookLM.
 
 ---
 
