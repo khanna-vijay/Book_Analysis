@@ -5,7 +5,7 @@ Objective : Analyze the Book "The Critique of Pure Reason - Immanuel Kant" using
 
 We use the pdf Book from https://ia600809.us.archive.org/32/items/immanuelkantscri032379mbp/immanuelkantscri032379mbp.pdf. 
 
-Why did we take this book for Analysis : Immanuel Kant's challenging expository work is worth the time and effort. So we leverage NotebookLM to attempt to understand this important book.
+Why did we take this book for Analysis : Immanuel Kant's challenging expository work is worth the time and effort. It is refered in literaty circles as one of the toughest to understand Expository books. And if we can understand the big picture of this book via this method, it would be a good start.
 
 # TLDR the Important "How to Read a Book" Questions to NotebookLM for Pre-Reading
 > Help me understand : “What is this book about as a whole?”. Discover and Explain the leading theme, main point, and orderly subdivision of the book.
