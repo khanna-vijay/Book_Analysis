@@ -31,6 +31,12 @@ Outline the book's major parts in their order and relation, explaining how they 
 Frame a set of neutral commonsense questions that are central to inquiry.
 Map out the intellectual issues by identifying questions that receive conflicting answers.
 
+> NotebookLM - MindMap of Big Picture of the Book
+
+> NotebookLM - Video Review
+
+> Notebook - Briefing doc report
+
 
 # Pre-Analysis using NotebookLM In-Built Features 
 
