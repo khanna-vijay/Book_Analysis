@@ -82,3 +82,46 @@ This second main part contains the determination of the formal conditions of a c
 * **Chapter III: The Architectonic of Pure Reason:** Details the "art of constructing systems," ensuring that knowledge forms an organized whole derived from a single supreme end, rather than a mere aggregate.
 * **Chapter IV: The History of Pure Reason:** A brief sketch to indicate the historical roots and development of the controversies surrounding pure reason.
 
+
+
+---
+
+```
+```
+
+
+---
+
+```
+```
+
+
+---
+
+```
+```
+
+
+---
+
+```
+```
+
+
+---
+
+```
+```
+
+
+---
+
+```
+```
+
+
+
+
+
+
+
