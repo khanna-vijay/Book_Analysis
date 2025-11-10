@@ -10,7 +10,8 @@
 ---
 
 ```
-Help me understand : “What is this book about as a whole?”. Discover and Explain the leading theme, main point, and orderly subdivision of the book.
+Help me understand : “What is this book about as a whole?”.
+Discover and Explain the leading theme, main point, and orderly subdivision of the book.
 ```
 
 ## 🔬 Core Concepts and Structure
