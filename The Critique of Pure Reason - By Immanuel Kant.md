@@ -283,8 +283,88 @@ The entire book operates as a comprehensive investigation and **self-censorship*
 
 ---
 
+
+## 6. 🎯 Central Objective and Core Problems
+
 ```
+“Define the problem or problems the author is trying to solve.
+Identify the core question(s) that drove the author to write the book and put them in an intelligible order (primary vs. secondary questions).
 ```
+
+
+
+The central objective of Immanuel Kant's *The Critique of Pure Reason* is to solve the fundamental problems inherent in speculative thought by instituting a systematic self-examination of human reason. The ultimate goal is to determine the possibility, extent, and limits of metaphysics as a science.
+
+The problems and core questions driving the book can be organized as follows:
+
+---
+
+### 1. Primary Problem and Core Question
+
+The overarching problem the author is trying to solve arises from the peculiar fate of human reason: it is burdened by questions that it is "not able to ignore" due to its own nature, yet which it is also "not able to answer" because they transcend all its powers. This has turned metaphysics into a "**battle-field of these endless controversies**," resulting in skepticism, depreciation, and "**complete indifferentism**".
+
+The need for a critical self-knowledge of reason is thus a "call to reason to undertake anew the most difficult of all its tasks".
+
+#### Primary Question (The Philosophical Grounding)
+
+The fundamental question that forms the "proper problem of pure reason" is the quest to discover the ground of the possibility of a specific type of knowledge:
+
+1.  **How are *a priori* synthetic judgments possible?**
+
+This question is primary because Kant asserts that all theoretical sciences of reason (mathematics, pure science of nature, and metaphysics) contain synthetic *a priori* judgments as their principles. The possibility of these sciences rests on solving this synthetic problem.
+
+---
+
+### 2. Secondary Questions and Supporting Problems
+
+To address the primary philosophical question, Kant sets forth more specific inquiries that structure the book's critical investigation.
+
+#### A. The Chief Critical Question (The Extent of Knowledge)
+
+This is the primary investigative question that guides the Transcendental Doctrine of Elements:
+
+> **What and how much can the understanding and reason know apart from all experience?**
+
+This question aims to define the precise domain of pure thought.
+
+#### B. The Metaphysical and Practical Questions
+
+These questions address the possibility of applying reason beyond experience (transcendence) and the ultimate end of human endeavor:
+
+**The Problem of Metaphysics (as disposition and as science)**
+
+* **How is metaphysics, as natural disposition, possible?**
+    * This addresses how those insoluble questions (such as God, freedom, and immortality) arise spontaneously from the "nature of universal human reason".
+* **How is metaphysics, as science, possible?**
+    * This question seeks to establish certain, scientific knowledge in metaphysics by setting "sure and determinate limits" for reason. The *Critique* itself is the science required to determine the "Possibility, the Principles, and the Extent of all *a priori* Knowledge".
+
+**The Practical Interests of Reason (The Ultimate Ends)**
+
+The ultimate aim of the pure employment of reason, which constitutes the highest interest of humanity, is directed to three objects that transcend experience, questions that cannot be ignored:
+
+* Is there a **God**?
+* Is there a **future life** (Immortality of the soul)?
+* Is the will **free**?
+
+These practical interests, which Kant later condenses, provide the motivation for the entire critical project:
+
+* **What can I know?** (Speculative)
+* **What ought I to do?** (Practical, Moral)
+* **What may I hope?** (Practical and Theoretical)
+
+By solving the analytical problem (the "What can I know?" problem), the *Critique* provides the necessary foundation to secure the ground for the practical problems.
+
+---
+
+### 🗺️ Analogy: The Land Surveyor
+
+> To solidify this understanding, consider the analogy of a land surveyor tasked with drawing a map of a kingdom's territory.
+>
+> * **The primary problem:** Why all previous attempts at mapping this land (metaphysics) failed, leading to chaos and confusion.
+> * **The core question:** "How can we create maps that reliably predict navigation (synthetic *a priori* judgments)?"
+> * **The chief critical question:** The practical measurement: "How far does the king's dominion actually extend (the limits of knowledge)?"
+>
+> By answering these, the surveyor can then address the practical problems of the citizens: proving the existence of the most important landmarks (God, freedom, immortality) without falsely inventing them. The entire "Critique of Pure Reason" is the systematic, methodical procedure (the treatise on method) required to execute the survey accurately, preventing reason from straying into "waste-ground".
 
 
 ---
