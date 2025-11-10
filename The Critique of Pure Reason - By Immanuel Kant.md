@@ -5,6 +5,8 @@ Objective : Analyze the Book "The Critique of Pure Reason - Immanuel Kant" using
 
 We use the pdf Book from https://ia600809.us.archive.org/32/items/immanuelkantscri032379mbp/immanuelkantscri032379mbp.pdf. 
 
+Why did we take this book for Analysis : Immanuel Kant's challenging expository work is worth the time and effort. So we leverage NotebookLM to attempt to understand this important book.
+
 # Pre-Analysis using NotebookLM In-Built Features 
 
 ## Video Summary using NotebookLM : https://youtu.be/dOQuH50BQfI
