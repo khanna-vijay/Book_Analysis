@@ -1,7 +1,5 @@
 
-# The Critique of Pure Reason
-
-**By: Immanuel Kant**
+# The Critique of Pure Reason - By: Immanuel Kant
 
 ---
 
