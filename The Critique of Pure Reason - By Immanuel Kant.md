@@ -3,13 +3,13 @@
 
 ---
 
-## 1. 📖 Abstract
+# 1. 📖 Abstract
 
 > The provided text consists of excerpts from Immanuel Kant's *The Critique of Pure Reason*, which is a foundational work in philosophy. The passages discuss the nature of reason, logic, and knowledge, particularly exploring the concepts of *a priori* and *a posteriori* judgments, analytic and synthetic propositions, and the limits of speculative reason. The text also addresses the structure of the *Critique*, noting that the translation follows the second edition (1787) and includes dedications, such as to Baron von Zedlitz, alongside Kant's philosophical inquiries into the transcendental ideas of psychology, cosmology, and theology, including the famous antinomies and paralogisms. Ultimately, the work asserts the importance of critique and discipline to prevent reason from extending beyond the bounds of possible experience, especially concerning complex concepts like space, time, and causality.
 
 ---
 
-## 2. 🔬 Core Concepts and Structure
+# 2. 🔬 Core Concepts and Structure
 ```
 Help me understand : “What is this book about as a whole?”.
 Discover and Explain the leading theme, main point, and orderly subdivision of the book.
@@ -83,7 +83,7 @@ This second main part contains the determination of the formal conditions of a c
 
 ---
 
-## 3. 💡 Main Ideas, Assertions, and Arguments
+# 3. 💡 Main Ideas, Assertions, and Arguments
 ```
 Help me understand : “What is being said in detail, and how?”.
 Explain and List the author's main ideas, assertions (propositions), and arguments.
@@ -189,7 +189,7 @@ The book's entire argument thus follows a meticulous procedure: **Analysis** (Ae
 
 
 ---
-## 4. ⚖️ The Core Idea in Brief
+# 4. ⚖️ The Core Idea in Brief
 ```
 Help me understand : “The Unity Core Idea of this Book”.
 State what the whole book is about with the utmost brevity.
@@ -207,7 +207,7 @@ The book systematically examines the structure of human reason to prove that obj
 
 
 ---
-## 5. Enumerate this book's major parts
+# 5. Enumerate this book's major parts
 ```
 Help to : “Enumerate this book's major parts”. 
 Outline the book's major parts in their order and relation, explaining how they logically connect to each other and contribute to the overall argument. This involves breaking down the book's structure beyond the table of contents to reveal its logical architecture.
@@ -284,7 +284,7 @@ The entire book operates as a comprehensive investigation and **self-censorship*
 ---
 
 
-## 6. 🎯 Central Objective and Core Problems
+# 6. 🎯 Central Objective and Core Problems
 
 ```
 “Define the problem or problems the author is trying to solve.
@@ -429,7 +429,7 @@ Here are the author's most important keywords and their interpretation, drawn fr
 
 
 ---
-## 7. 🏁 Solved vs. Unsolved Problems (The Author's View)
+# 7. 🏁 Solved vs. Unsolved Problems (The Author's View)
 ```
 Determine which of his problems the author has solved, and which he has not.
 Assess whether the author successfully answered the questions defined in section “Define the problem“ , and whether the author knows which problems remained unsolved.
@@ -508,7 +508,7 @@ In summary, the author successfully solved his problem of setting the limits of 
 
 
 ---
-## 8. 🧭 Neutral Terminology and Core Intellectual Issues
+# 8. 🧭 Neutral Terminology and Core Intellectual Issues
 ```
 Establish a neutral, controlling terminology for the subject. Translate each author's specialized terms and concepts into this common vocabulary, effectively forcing them to "use simpler language".
 
@@ -596,7 +596,7 @@ The overall intellectual dilemma of the book is that reason is perpetually stuck
 
 
 ---
-## 10.  Briefing Document: Key Insights from Kant's Critique of Pure Reason
+# 9.  Briefing Document: Key Insights from Kant's Critique of Pure Reason
 
 
 This document synthesizes the central arguments and themes from Immanuel Kant's *Critique of Pure Reason*, as presented in the Norman Kemp Smith translation. The work's primary objective is to conduct a critical examination of the faculty of reason itself to determine the possibility, extent, and limits of **a priori knowledge**—knowledge independent of all experience.
