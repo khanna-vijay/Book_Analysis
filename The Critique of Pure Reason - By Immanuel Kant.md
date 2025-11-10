@@ -5,9 +5,14 @@ Objective : Analyze the Book "The Critique of Pure Reason - Immanuel Kant" using
 
 We use the pdf Book from https://ia600809.us.archive.org/32/items/immanuelkantscri032379mbp/immanuelkantscri032379mbp.pdf. 
 
-# Pre-Analysis
-### High level Mind Map from NotebookLM
+# Pre-Analysis using NotebookLM In-Built Features 
+
+## Video Summary using NotebookLM : 
+https://youtu.be/dOQuH50BQfI
+
+## Mind Map from NotebookLM
 <img width="8304" height="10838" alt="image" src="https://github.com/user-attachments/assets/799d0497-3b40-4e30-bc17-6094a9b41379" />
+
 
 
 ---
