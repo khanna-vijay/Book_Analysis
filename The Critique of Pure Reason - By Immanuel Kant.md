@@ -369,8 +369,64 @@ By solving the analytical problem (the "What can I know?" problem), the *Critiqu
 
 ---
 
+## 🔑 Key Terminology
 ```
+Identify the author's most important keywords and interpret them to arrive at a precise understanding of how the author uses them.
+List the meanings for key terms used in this book.
 ```
+
+> The complexity of *The Critique of Pure Reason* necessitates a precise understanding of its specialized vocabulary, many terms of which are used by the author, Immanuel Kant, with meanings diverging from common usage. Kant's dense writing style, with its "undue use of parentheses" and reliance on grammatical particles, further demands clarity in defining his central concepts.
+
+Here are the author's most important keywords and their interpretation, drawn from the structure and content of the work.
+
+### 1. The Critical Distinction: A Priori / Synthetic / Analytic
+
+| Keyword | Interpretation and Usage |
+| :--- | :--- |
+| ***A Priori*** | Knowledge that is **independent of all experience**. Such knowledge is characterized by necessity and strict universality. The entire philosophical inquiry seeks to determine the possibility, principles, and extent of all *a priori* knowledge. |
+| **Empirical / *A Posteriori*** | Knowledge that is grounded in or derived from experience. The *matter* or *content* of appearance is given to us *a posteriori*. |
+| **Analytic Judgment** | A judgment where the predicate (B) is covertly **contained in** the concept of the subject (A). It is an **explicative** judgment that merely analyzes the subject concept and does not extend knowledge. These judgments rest solely on the principle of contradiction. |
+| **Synthetic Judgment** | A judgment where the predicate (B) lies **outside** the concept of the subject (A) but is connected to it, **extending knowledge** (ampliative). Judgments of experience are synthetic. The core problem of the *Critique* is determining how synthetic judgments are possible when made *a priori* (**synthetic *a priori* judgments**). |
+
+---
+
+### 2. The Structure of Knowledge (Sensibility and Thought)
+
+| Keyword | Interpretation and Usage |
+| :--- | :--- |
+| **Sensibility (*Sinnlichkeit*)** | The faculty of **receptivity**, or the capacity to be affected by objects, which yields **intuitions**. Sensibility provides the pure forms of intuition (space and time). |
+| **Intuition (*Anschauung*)** | A single representation that relates **immediately** to an object. All thought must ultimately relate to intuition, and with us (humans), to sensibility, because only through intuition can an object be *given*. Intuitions can be either *pure* (space and time) or *empirical* (involving sensation). |
+| **Understanding (*Verstand*)** | The non-sensible faculty of knowledge based on the **spontaneity of thought**. Its use is solely to judge by means of **concepts**. The Analytic deals with the understanding. It is characterized as the faculty of rules. |
+| **Synthesis** | The act of **putting different representations together** and grasping the manifold in one act of knowledge. All analysis presupposes synthesis. Combination (*Verbindung*) is an act of the understanding, often termed synthesis. Synthesis is classified as *pure* (*a priori*, e.g., in space and time) or *empirical*. |
+| **Categories** | The **pure concepts of the understanding** that apply *a priori* to objects of intuition in general. These are the fundamental concepts by which we *think* objects in general for appearances. They are derived systematically from the logical functions of judgment. Categories are valid only within the limits of empirical intuition/experience. |
+| **Transcendental Apperception (The 'I Think')** | The original and transcendental condition that all manifold representations must be capable of being combined under **one single consciousness**. This unity of self-consciousness is the *a priori* ground of all concepts. The expression 'I think' is the vehicle of all concepts and is transcendental itself, serving to introduce all thought. |
+
+---
+
+### 3. The World and Its Limits
+
+| Keyword | Interpretation and Usage |
+| :--- | :--- |
+| **Appearance (*Erscheinung*)** | The undetermined object of an empirical intuition. The objects of experience are **nothing but appearances**, having no independent existence outside our thoughts. Appearances are *phenomena* thought of according to the categories. |
+| **Thing-in-Itself / *Noumenon*** | The object as it exists **in itself**, apart from its relation to our senses and our cognitive structure. **Things-in-themselves are unknowable by us**. *Noumena* are intelligible objects thought through pure understanding, to which our sensibility cannot reach. |
+| **Transcendental** | Signifies knowledge that is concerned **not with objects, but with our mode of knowledge of objects** in so far as that knowledge is possible *a priori*. |
+| **Transcendent** | **Going or passing beyond the limits of possible experience**. Principles that command reason to transgress the limits of experience are transcendent. Reason's employment of its pure concepts is always transcendent. |
+| **Transcendental Deduction** | The legal proof (*quid juris*) that **justifies the objective validity** of *a priori* concepts (like the categories or space/time) by relating them necessarily to the conditions of possible experience. |
+| **Transcendental Idea** | A **concept of reason** that transcends the possibility of experience. These ideas relate to the *unconditioned* synthetic unity of conditions (e.g., God, the soul, the world-whole). |
+| **Antinomy** | The **conflict of reason with itself**, where mutually contradictory assertions (Thesis and Antithesis) concerning cosmological ideas (e.g., the finitude or infinitude of the world) are generated, each resting on plausible but erroneous grounds. |
+
+---
+
+### 4. Methodological Concepts
+
+| Keyword | Interpretation and Usage |
+| :--- | :--- |
+| **Discursive** | Knowledge that is achieved by means of **concepts** rather than immediate intuition. |
+| **Regulative Principle** | A principle of reason that serves as a **rule**, postulating what we ought to do in the regress of experience (e.g., continually seeking conditions for conditioned phenomena), but not anticipating what is present in the object as it is in itself. It **guides investigation** toward systematic unity. |
+| **Constitutive Principle** | A principle that **directly determines** the existence or necessary structure of objects (as appearances) within experience. The mathematical principles are constitutive; the dynamical principles (Analogies) are merely regulative regarding existence. |
+Section of a Markdown file.
+| **Transcendental Reflection** | The consciousness of the relation of given representations to our different sources of knowledge (sensibility or understanding), necessary to determine to which cognitive faculty a concept properly belongs. The failure to perform this leads to the *Amphiboly*. |
+| **Schema / Schematism** | The transcendental determination of **time** in accordance with a pure concept of the understanding. The schema is the necessary intermediary (the "third something") between the heterogeneous categories (pure concepts) and the appearances (sensible manifold). The categories without schemata are merely logical functions without objective meaning. |
 
 
 ---
