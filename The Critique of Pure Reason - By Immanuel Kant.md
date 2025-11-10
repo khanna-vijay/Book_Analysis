@@ -17,7 +17,7 @@ Discover and Explain the leading theme, main point, and orderly subdivision of t
 
 The book, *The Critique of Pure Reason*, is a foundational philosophical work dedicated to determining the boundaries and proper employment of human thought independent of all sense experience.
 
-### 1. Leading Theme: The Tribunal of Pure Reason
+### A. Leading Theme: The Tribunal of Pure Reason
 
 The leading theme of the book is the establishment of a **critique of pure reason itself**. This is not a critique of other philosophical books or systems, but a systematic examination of the faculty of reason in general.
 
@@ -29,7 +29,7 @@ The *Critique* is designed as a **treatise on the method** necessary for philoso
 
 ---
 
-### 2. Main Point and General Problem
+### B. Main Point and General Problem
 
 The essential purpose of the book stems from a fundamental predicament of human reason: it is burdened by questions (such as God, freedom, and immortality) which, due to the very nature of reason, it cannot ignore, yet simultaneously cannot answer because these questions transcend its powers. This inescapable conflict has historically turned metaphysics into a "battle-field of these endless controversies," leading to depreciation and indifference.
 
@@ -44,7 +44,7 @@ In short, the main point is to determine the possibility, extent, and limits of 
 
 ---
 
-### 3. Orderly Subdivision and Structure
+### C. Orderly Subdivision and Structure
 
 The book is characterized by an **architectonic unity**, meaning its parts form an organized unity (*articulatio*), where the whole is structured according to a single guiding idea provided by reason. The entire design marks out the complete plan of the prospective science of metaphysics, detailing both its limits and its internal structure.
 
