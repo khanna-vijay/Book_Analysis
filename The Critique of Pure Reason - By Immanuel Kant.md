@@ -9,9 +9,7 @@
 
 > The provided text consists of excerpts from Immanuel Kant's *The Critique of Pure Reason*, which is a foundational work in philosophy. The passages discuss the nature of reason, logic, and knowledge, particularly exploring the concepts of *a priori* and *a posteriori* judgments, analytic and synthetic propositions, and the limits of speculative reason. The text also addresses the structure of the *Critique*, noting that the translation follows the second edition (1787) and includes dedications, such as to Baron von Zedlitz, alongside Kant's philosophical inquiries into the transcendental ideas of psychology, cosmology, and theology, including the famous antinomies and paralogisms. Ultimately, the work asserts the importance of critique and discipline to prevent reason from extending beyond the bounds of possible experience, especially concerning complex concepts like space, time, and causality.
 
-Here is the new section formatted for your `README.md` file.
 
-```md
 ## 🔬 Core Concepts and Structure
 
 The book, *The Critique of Pure Reason*, is a foundational philosophical work dedicated to determining the boundaries and proper employment of human thought independent of all sense experience.
@@ -79,4 +77,4 @@ This second main part contains the determination of the formal conditions of a c
 * **Chapter II: The Canon of Pure Reason:** Focuses on the "ultimate end of the pure employment of our reason". It addresses the main practical questions that motivate reason—What can I know? What ought I to do? What may I hope?—concluding that the existence of God and a future life are necessary practical postulates.
 * **Chapter III: The Architectonic of Pure Reason:** Details the "art of constructing systems," ensuring that knowledge forms an organized whole derived from a single supreme end, rather than a mere aggregate.
 * **Chapter IV: The History of Pure Reason:** A brief sketch to indicate the historical roots and development of the controversies surrounding pure reason.
-```
+
