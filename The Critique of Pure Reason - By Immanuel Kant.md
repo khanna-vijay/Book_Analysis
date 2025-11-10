@@ -424,7 +424,6 @@ Here are the author's most important keywords and their interpretation, drawn fr
 | **Discursive** | Knowledge that is achieved by means of **concepts** rather than immediate intuition. |
 | **Regulative Principle** | A principle of reason that serves as a **rule**, postulating what we ought to do in the regress of experience (e.g., continually seeking conditions for conditioned phenomena), but not anticipating what is present in the object as it is in itself. It **guides investigation** toward systematic unity. |
 | **Constitutive Principle** | A principle that **directly determines** the existence or necessary structure of objects (as appearances) within experience. The mathematical principles are constitutive; the dynamical principles (Analogies) are merely regulative regarding existence. |
-Section of a Markdown file.
 | **Transcendental Reflection** | The consciousness of the relation of given representations to our different sources of knowledge (sensibility or understanding), necessary to determine to which cognitive faculty a concept properly belongs. The failure to perform this leads to the *Amphiboly*. |
 | **Schema / Schematism** | The transcendental determination of **time** in accordance with a pure concept of the understanding. The schema is the necessary intermediary (the "third something") between the heterogeneous categories (pure concepts) and the appearances (sensible manifold). The categories without schemata are merely logical functions without objective meaning. |
 
