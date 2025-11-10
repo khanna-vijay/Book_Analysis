@@ -7,7 +7,7 @@ We use the pdf Book from https://ia600809.us.archive.org/32/items/immanuelkantsc
 
 Why did we take this book for Analysis : Immanuel Kant's challenging expository work is worth the time and effort. So we leverage NotebookLM to attempt to understand this important book.
 
-# TLDR the Important Questions for NotebookLM for Pre-Reading
+# TLDR the Important "How to Read a Book" Questions to NotebookLM for Pre-Reading
 > Help me understand : “What is this book about as a whole?”. Discover and Explain the leading theme, main point, and orderly subdivision of the book.
 
 > Help me understand : “What is being said in detail, and how?”. Explain and List the author's main ideas, assertions (propositions), and arguments.
