@@ -90,7 +90,8 @@ List the Metaphors and Examples used in this book.
 ---
 ```
 List and describe in brief the Stories explained/used used by the Author to prove a point/explain a concept.
-
+```
+---
 
 
 
