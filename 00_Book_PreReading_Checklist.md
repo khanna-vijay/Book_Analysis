@@ -81,7 +81,7 @@ Map out the intellectual issues by identifying questions that receive conflictin
 ---
 ```
 List the Quotes made by the Author.
-List the Accecdotes made by the Author.
+List the Anecdotes made by the Author.
 ```
 ---
 ```
