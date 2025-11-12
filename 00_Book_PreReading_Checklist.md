@@ -72,7 +72,8 @@ In Answering and Solving the Questions, does the Author raise new Questions, and
 ```
 ---
 ```
-Establish a neutral, controlling terminology for the subject. Translate each author's specialized terms and concepts into this common vocabulary, effectively forcing them to "use simpler language".
+Establish a neutral, controlling terminology for the subject.
+Translate each author's specialized terms and concepts into this common vocabulary, effectively forcing them to "use simpler language".
 Frame a set of neutral commonsense questions that are central to inquiry.
 Map out the intellectual issues by identifying questions that receive conflicting answers.
 
@@ -89,9 +90,7 @@ List the Metaphors and Examples used in this book.
 ---
 ```
 List and describe in brief the Stories explained/used used by the Author to prove a point/explain a concept.
-```
----
-```
+
 
 
 
